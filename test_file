@@ -1,0 +1,12 @@
+import Foundation
+
+class Human {
+    var age
+    var height
+    var weight
+}
+
+class Child: Human {
+    first_name 
+    last_name 
+}
